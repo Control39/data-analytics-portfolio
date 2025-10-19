@@ -1,0 +1,9 @@
+stage,before,after,change,segment
+view_restaurants,1000,1000,0%,all
+add_to_cart,800,750,-6.25%,all
+checkout,650,550,-15.38%,all
+payment,600,510,-15%,all
+view_restaurants,500,500,0%,new_users
+add_to_cart,400,350,-12.5%,new_users
+checkout,300,220,-26.67%,new_users
+payment,250,190,-24%,new_users
